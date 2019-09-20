@@ -21,10 +21,10 @@
 
 # problem 4
 
-# yourNum = 0
-# while yourNum > -5 or yourNum < -10:
-#     yourNum = int(input("Enter a number that is between -5 and -10: "))
-# print("Good job!")
+yourNum = 0
+while yourNum > -5 or yourNum < -10:
+    yourNum = int(input("Enter a number that is between -5 and -10: "))
+print("Good job!")
 
 # problem 5
 
@@ -33,10 +33,10 @@
 #     print(n)
 # problem 6
 
-def fullName(firstName):
-    lastName = input("What is your last name? ")
-    name = f"Hello {firstName} {lastName}"
-    print(name)
-fullName("Jack")
+# def fullName(firstName):
+#     lastName = input("What is your last name? ")
+#     name = f"Hello {firstName} {lastName}"
+#     print(name)
+# fullName("Jack")
 
-problem 7
+# problem 7
